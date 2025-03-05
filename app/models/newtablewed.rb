@@ -1,0 +1,2 @@
+class Newtablewed < ApplicationRecord
+end

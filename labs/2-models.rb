@@ -3,9 +3,13 @@
 # should be the top-level directory (i.e. /workspace/your-app/) and then run:
 # rails runner labs/2-models.rb
 
+puts "There are n companies"
+
 # **************************
 # DON'T CHANGE OR MOVE
-Salesperson.destroy_all
+
+# Salesperson.destroy_all
+
 # **************************
 
 # Lab 2: Models
